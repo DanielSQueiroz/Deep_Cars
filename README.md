@@ -22,8 +22,7 @@ Projeto onde várias Redes Neurais competem para aprender a dirigir em uma pista
 
 # Por quê?
 Trabalho requisitado pela professora Andressa da disciplina de Inteligência Artificial e Computacional como requisito avaliativo do bimestre. 
-
-
+### Produzido por: Daniel Queiroz e Rafael Buchacra
 # Observações:
 
 - O arquivo 'redeNeural.c' contém todas as funções relativas à implementação da Rede Neural (tudo sobre a rede neural está nesse arquivo).
